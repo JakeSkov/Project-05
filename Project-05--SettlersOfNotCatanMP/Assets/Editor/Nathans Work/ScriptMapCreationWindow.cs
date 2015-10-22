@@ -725,7 +725,7 @@ public class ScriptMapCreationWindow : EditorWindow
             GUI.color = Color.green;
             if (GUI.Button(exportDataButtonRect, "Export Map"))
             {
-                Debug.Log("Exports the map!");
+                ScriptMapExport.ExportMap();
             }
 
             GUI.color = oldColor;

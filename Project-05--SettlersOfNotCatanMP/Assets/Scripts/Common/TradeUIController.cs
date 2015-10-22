@@ -74,7 +74,7 @@ public class TradeUIController : MonoBehaviour
             tradeSheepText.color = Color.black;
         }
 
-        if (tradeWheat> playerWheat)
+        if (tradeWheat > playerWheat)
         {
             tradeWheatText.color = Color.red;
             validWheat = false;
