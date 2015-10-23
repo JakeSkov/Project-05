@@ -7,7 +7,7 @@ public class ScriptMapCreationWindow : EditorWindow
 {
 
     // Hex map variables
-    private ScriptHex[][] hexMap = new ScriptHex[15][];
+    public static ScriptHex[][] hexMap = new ScriptHex[15][];
     private int selectedRow = 7;
     private int selectedColumn = 7;
 
