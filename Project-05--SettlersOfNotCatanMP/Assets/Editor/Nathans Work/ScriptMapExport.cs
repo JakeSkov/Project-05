@@ -19,7 +19,7 @@ public class ScriptMapExport : EditorWindow
     private StreamWriter writer;
 
     //Gets the Map Creator script for referanceing
-    public ScriptMapCreationWindow mapCreator; 
+    public ScriptMapCreationWindow mapCreator = new ScriptMapCreationWindow(); 
 
     public void ExportMap()
     {
@@ -33,7 +33,6 @@ public class ScriptMapExport : EditorWindow
         if (levelName.Contains(" "))
         {
             levelName = levelName.Replace(" ", "_");
-            Debug.Log(levelName);
         }
 
         writer = new StreamWriter(path + levelName + ".txt");

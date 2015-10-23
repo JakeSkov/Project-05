@@ -1,0 +1,21 @@
+Level Name
+Author Name
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
+Type_Row,Column_Value
